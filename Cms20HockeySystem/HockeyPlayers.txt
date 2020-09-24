@@ -1,3 +1,8 @@
-Mats Sundin,13
-Peter Forsberg,21
-Niklas Lidström,5
+Mats Sundin,13,Toronto,SWE
+Peter Forsberg,21,Colorado,SWE
+Niklas Lidström,5,Detroit,SWE
+Börje Salming,21,Toronto,SWE
+Daniel Alfredsson,11,Ottawa,SWE
+Pavel Bure,10,Vancouver,RUS
+Steve Yzerman,19,Detroit,CAN
+Jörgen Jönsson,21,Färjestad,SWE
